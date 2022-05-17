@@ -1,5 +1,5 @@
 # fast-rl-vn
-Fast Reinforcement Learning for Visual Navigation
+Fast Reinforcement Learning with Prior Policy for Visual Navigation
 
 ## Enable/Disable Sim Logging
 To turn off non-critical logging, use one of the following based on your current version:
